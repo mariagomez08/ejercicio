@@ -5,7 +5,7 @@ def area_cuadrado(lado):
 	
 area_cuadrado(5) 
 	
-# coding: utf-8
+
 # volumen de un paralelepipedo Jaime Díaz
 def Volumen_del_paralelepipedo(n1,n2,n3):
     volum = (n1*n2*n3)
