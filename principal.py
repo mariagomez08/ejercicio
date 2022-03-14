@@ -6,6 +6,10 @@ def area_cuadrado(lado):
 def rhombusArea(d1,d2): 
     area = (d1*d2)/2
     return area
+
+def circleArea(r):
+    result = (math.pi)*(r*r)
+    return result
 	
 area_cuadrado(6) 
 	
