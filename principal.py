@@ -8,6 +8,7 @@ def rhombusArea(d1,d2):
     return area
 	
 area_cuadrado(6) 
+rhombusArea(5,10):
 	
 
 # volumen de un paralelepipedo Jaime Díaz
